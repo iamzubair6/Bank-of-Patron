@@ -1,36 +1,36 @@
-body{
-    padding: 100px;
+body {
+  padding: 100px;
 }
-.text{
-    font-weight: bold;
+.text {
+  font-weight: bold;
 }
-.submit-area{
-    padding : 40px;
-    margin-top: 50px;
-    border-radius: 10px;
-    box-shadow: 5px 5px 10px gray;
+.submit-area {
+  padding: 40px;
+  margin-top: 50px;
+  border-radius: 10px;
+  box-shadow: 5px 5px 10px gray;
 }
-#transaction-aria{
-    display: none;
+#transaction-aria {
+  display: none;
 }
-.status{
-    margin: 70px;
-    color: white;
-    border-radius: 10px;
-    padding: 15px;
+.status {
+  margin: 70px;
+  color: white;
+  border-radius: 10px;
+  padding: 15px;
 }
-.deposit{
-    background-color: slateblue;
+.deposit {
+  background-color: slateblue;
 }
-.withdraw{
-    background-color: lightsalmon;
+.withdraw {
+  background-color: lightsalmon;
 }
-.balance{
-    background-color: orange;
+.balance {
+  background-color: orange;
 }
-.history{
-    padding : 60px;
-    margin-top: 15px;
-    border-radius: 10px;
-    box-shadow: 5px 5px 10px gray;
+.history {
+  padding: 60px;
+  margin-top: 15px;
+  border-radius: 10px;
+  box-shadow: 5px 5px 10px gray;
 }
